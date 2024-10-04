@@ -1,10 +1,10 @@
 ![Alt Text](https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png)
 
-This is a [**AWS Amplify Gen 2**](https://test-amplify.xanderbilla.com/) project
+This is a [**AWS Amplify Gen 2**](https://template.xanderbilla.com/) project
 
 ## Getting Started
 
-Open [**AWS Amplify Gen 2**](https://test-amplify.xanderbilla.com/) with your browser to see the result.
+Open [**AWS Amplify Gen 2**](https://template.xanderbilla.com/) with your browser to see the result.
 All the changes and associated projects will be documented below (soon)
 
 ## Deploy on AWS
